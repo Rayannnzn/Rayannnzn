@@ -47,4 +47,4 @@ Rental marketplace with role-based access for hosts, tenants and admins, listing
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-rayan)
+[LinkedIn](https://www.linkedin.com/in/muhammad-rayan-779318320/)
