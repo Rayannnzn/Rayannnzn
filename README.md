@@ -4,7 +4,7 @@
 
 I design, ship and operate production systems end-to-end: the architecture and API design, the product code, and the CI/CD, cloud infrastructure and observability it runs on.
 
-With 5+ years of experience, I currently lead a team of 7 engineers and own architecture and release management for a SaaS platform serving 20,000+ active users.
+With 3+ years of experience, I currently lead a team of 7 engineers and own architecture and release management for a SaaS platform serving 20,000+ active users.
 
 ## What I do
 
